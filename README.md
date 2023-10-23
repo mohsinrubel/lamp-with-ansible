@@ -77,4 +77,4 @@ Create an Virtual Machine (ubuntu 22.04)  in aws, azure  or your custom vm or vp
 ☑️ update code and run ☑️ Run playbook `` ./deploy.sh `` command.
 
 ## ✅ Conclsion: 
-We used ansible and linux VM . This gave us a strong base for our deployment. After that, we update application just run playbook.
+I used ansible and linux VM . This gave us a strong base for our deployment. After that, we update application just run playbook.
